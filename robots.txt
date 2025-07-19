@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepak-coder1.github.io/PixelConvert/sitemap.xml
